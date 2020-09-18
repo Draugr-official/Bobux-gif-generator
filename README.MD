@@ -10,3 +10,5 @@ It takes a random keyword such as "money-rain" from a list and searches for it o
 
 It takes a random result from the Tenor returns, then displays your text on the gif.
 
+### Credits
+Created by Classy Code and 0x90
